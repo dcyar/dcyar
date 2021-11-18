@@ -1,16 +1,14 @@
-# Hello, is it me you are looking for? 😎🤘
+# Hello 😎🤘
 
-<img align="left" style="margin-right: 20px;" src="./avatar.jpg" width="200px" height="200px" />
+Jhon Achata Limachi, 27 years old, Peruvian.
 
-Web developer, with knowledge in Frontend, Backend, passionate about new technologies on the internet, music lover and explorer of the limits of the unknown 😉.
+Web developer, with knowledge in Backend and Frontend, passionate about new technologies, learning, music lover and explorer of the limits of the unknown. 😉.
 
-##### **#OpenToWork**
+- 🚀 I am currently working on **<span style="text-color: green !important;">[Arcux](https://arcux.net) 💚</span>**. But I can give consultancies to companies or startups 💡
+- 📚 I'm current learning Frontend Development with SASS, REACT on [DevF](https://devf.la/) 💜
+- 📚 I'm current learning Full Stack Development with MERN on [Make It Real](https://makeitreal.camp) 💛
 
-I am currently working on **<span style="text-color: green !important;">[Arcux](https://arcux.net) 💚</span>**. But I can give consultancies to companies or startups 💡
-
-##### **#OpenToCollaborate**
-
-I am willing to collaborate in communities, learning projects, weekend projects, new programmers, give mentoring
+⛵ I am willing to collaborate in communities, learning projects, weekend projects, new programmers, give mentoring
 
 ## ⚡ Technologies and Tools
 
@@ -25,8 +23,6 @@ I am willing to collaborate in communities, learning projects, weekend projects,
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="Vue.js" src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
-<img alt="NuxtJS" src="https://img.shields.io/badge/NuxtJS%20-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white"/>
-<img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
 <img alt="Canva" src="https://img.shields.io/badge/Canva%20-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
 </div>
 
