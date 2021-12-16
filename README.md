@@ -20,16 +20,7 @@ Web developer with knowledge in backend and frontend, passionate about new techn
 ```json
 {
   "backend": ["PHP", "Laravel", "Wordpress", "NodeJs"],
-  "frontend": [
-    "HTML5",
-    "CSS3",
-    "Javascript",
-    "VueJS",
-    "ReactJS",
-    "JQuery",
-    "Bootstrap",
-    "TailwindCSS"
-  ],
+  "frontend": ["HTML5", "CSS3", "Javascript", "VueJS", "ReactJS", "JQuery", "Bootstrap", "TailwindCSS"],
   "database": ["MySQL", "MongoDB"],
   "workflow": ["Git", "Gitflow", "Scrum"],
   "aws": ["EC2", "S3"],
