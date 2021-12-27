@@ -2,7 +2,7 @@
 
 Jhon Achata Limachi, 27 years old, Peruvian.
 
-Web developer with knowledge in backend and frontend, passionate about new technologies, continuous learning, music lover and explorer of the limits of the unknown. 😉.
+Fullstack developer, passionate about new technologies, continuous learning, teamwork is essential as well as effective communication and the application of good practices for the development of scalable software. 😉.
 
 - 🚀 I'm currently working on **<span style="text-color: green !important;">[Arcux](https://arcux.net) 💚</span>**. But I can give consultancies to companies or startups 💡
 - 📚 I'm currently learning Full Stack Development with MERN on [Make It Real](https://makeitreal.camp) 🧡
