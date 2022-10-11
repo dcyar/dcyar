@@ -1,36 +1,37 @@
 # Hello 😎🤘
 
-Jhon Achata Limachi, 27 years old, Peruvian.
+Jhon Achata Limachi, 28 years old, Peruvian.
 
 Fullstack developer, passionate about new technologies, continuous learning, teamwork is essential as well as effective communication and the application of good practices for the development of scalable software. 😉.
 
 - 🚀 I'm currently working on **<span style="text-color: green !important;">[Agencia Web Porta](https://porta.com.py) 🧡</span>**. But I can give consultancies to companies or startups 💡
 
 <!-- - 🚀 I can give consultancies to companies or startups 💡 -->
-- 📚 I'm currently learning Full Stack Development with MERN on [Make It Real](https://makeitreal.camp) 🧡
-- 📚 I'm currently learning about VueJs 📚
+- 📚 I'm currently learning about [InertiaJS](https://inertiajs.com/) 📚
 
 <hr />
 
 ⛵ I'm willing to collaborate in communities, learning projects, weekend projects, new programmers, give mentoring
 
+📚 I'm a [Make It Real](https://makeitreal.camp/) 🧡 bootcamp graduate (Fullstack with MERN)
+
 📚 I'm a [DevF](https://devf.la/) 💜 bootcamp graduate (Professional in coding)
 
-🤓You can see my learning projects here: [dcyar-learning](https://github.com/dcyar-learning)
+🤓 You can see my learning projects here: [dcyar-learning](https://github.com/dcyar-learning)
 
-💾 [Get my CV](./jhon-marco-achata-limachi.pdf)
+💾 [Get my CV](./jhon_marco_achata_limachi.pdf)
 
 ## ⚡ Technologies and Tools
 
 ```json
 {
   "backend": ["PHP", "Laravel", "Wordpress", "NodeJs"],
-  "frontend": ["HTML5", "CSS3", "Javascript", "VueJS", "ReactJS", "JQuery", "Bootstrap", "TailwindCSS"],
+  "frontend": ["HTML5", "CSS3", "Javascript", "VueJS", "ReactJS", "AlpineJS", "JQuery", "Bootstrap", "TailwindCSS"],
   "database": ["MySQL", "MongoDB"],
   "workflow": ["Git", "Gitflow", "Scrum"],
   "aws": ["EC2", "S3"],
   "design": ["Photoshop", "Figma"],
-  "environments": ["Docker"],
+  "environments": ["Docker", "Laravel Sail"],
   "payment_integrations": ["Paypal", "Mercado Pago", "Culqi"]
 }
 ```
