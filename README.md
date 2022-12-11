@@ -2,12 +2,16 @@
 
 Jhon Achata Limachi, 28 years old, Peruvian.
 
-Fullstack developer, passionate about new technologies, continuous learning, teamwork is essential as well as effective communication and the application of good practices for the development of scalable software. 😉.
+Fullstack developer, passionate about new technologies, continuous learning, teamwork is essential as well as effective communication and the application of good practices for the development of scalable software. 😉
 
-- 🚀 I'm currently working on **<span style="text-color: green !important;">[Agencia Web Porta](https://porta.com.py) 🧡</span>**. But I can give consultancies to companies or startups 💡
+-   🚀 I currently working on **<span style="text-color: green !important;">[Agencia Web Porta](https://porta.com.py) 🧡</span>**
+<!-- But I can give consultancies to companies or startups 💡 -->
 
-<!-- - 🚀 I can give consultancies to companies or startups 💡 -->
-- 📚 I'm currently learning about [InertiaJS](https://inertiajs.com/) 📚
+<!-- -   🚀 I can give consultancies to companies or startups 💡 -->
+
+-   📚 I currently belong to the [ONE](https://www.oracle.com/pe/education/oracle-next-education/) (Oracle Next Education) program as student 📚
+
+-   📚 I currently learning about [Golang](https://go.dev/) 📚
 
 <hr />
 
@@ -25,22 +29,33 @@ Fullstack developer, passionate about new technologies, continuous learning, tea
 
 ```json
 {
-  "backend": ["PHP", "Laravel", "Wordpress", "NodeJs"],
-  "frontend": ["HTML5", "CSS3", "Javascript", "VueJS", "ReactJS", "AlpineJS", "JQuery", "Bootstrap", "TailwindCSS"],
-  "database": ["MySQL", "MongoDB"],
-  "workflow": ["Git", "Gitflow", "Scrum"],
-  "aws": ["EC2", "S3"],
-  "design": ["Photoshop", "Figma"],
-  "environments": ["Docker", "Laravel Sail"],
-  "payment_integrations": ["Paypal", "Mercado Pago", "Culqi"]
+    "backend": ["PHP", "Laravel", "Wordpress", "NodeJs"],
+    "frontend": [
+        "HTML5",
+        "CSS3",
+        "Javascript",
+        "VueJS",
+        "ReactJS",
+        "AlpineJS",
+        "JQuery",
+        "Bootstrap",
+        "TailwindCSS"
+    ],
+    "database": ["MySQL", "MongoDB"],
+    "workflow": ["Git", "Gitflow", "Scrum", "Jira", "Asana"],
+    "aws": ["EC2", "S3"],
+    "design": ["Photoshop", "Figma"],
+    "environments": ["Docker", "Laravel Sail"],
+    "payment_integrations": ["Paypal", "Mercado Pago", "Culqi"]
 }
 ```
 
 ## 📫 Get in touch
 
-- Linkedin - [Jhon Achata](https://in.linkedin.com/in/jhonachata)
-- Twitter - [@dcyar\_](https://twitter.com/dcyar_)
-- Mail - [mail](mailto:jhonachata.dev@gmail.com)
+-   Blog - [jhonachata.dev](https://jhonachata.dev)
+-   Linkedin - [Jhon Achata](https://in.linkedin.com/in/jhonachata)
+-   Twitter - [@dcyar\_](https://twitter.com/dcyar_)
+-   Mail - [mail](mailto:jhonachata.dev@gmail.com)
 
 or give some ♥ on [instagram](https://instagram.com/dcyar).
 
