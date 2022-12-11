@@ -54,7 +54,7 @@ Fullstack developer, passionate about new technologies, continuous learning, tea
 
 -   Blog - [jhonachata.dev](https://jhonachata.dev)
 -   Linkedin - [Jhon Achata](https://in.linkedin.com/in/jhonachata)
--   Twitter - [@dcyar\_](https://twitter.com/dcyar_)
+-   Twitter - [@jhonachata](https://twitter.com/jhonachata)
 -   Mail - [mail](mailto:jhonachata.dev@gmail.com)
 
 or give some ♥ on [instagram](https://instagram.com/dcyar).
