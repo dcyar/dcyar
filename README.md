@@ -29,7 +29,12 @@ Fullstack developer, passionate about new technologies, continuous learning, tea
 
 ```json
 {
-    "backend": ["PHP", "Laravel", "Wordpress", "NodeJs"],
+    "backend": {
+        "basic": ["Go", "Java"],
+        "intermediate": ["NodeJS"],
+        "advanced": ["PHP"],
+        "frameworks": ["Laravel", "Wordpress", "Express"]
+    },
     "frontend": [
         "HTML5",
         "CSS3",
@@ -43,9 +48,9 @@ Fullstack developer, passionate about new technologies, continuous learning, tea
     ],
     "database": ["MySQL", "MongoDB"],
     "workflow": ["Git", "Gitflow", "Scrum", "Jira", "Asana"],
-    "aws": ["EC2", "S3"],
-    "design": ["Photoshop", "Figma"],
-    "environments": ["Docker", "Laravel Sail"],
+    "aws": ["S3"],
+    "design": ["Figma"],
+    "tools": ["Docker", "Laravel Sail"],
     "payment_integrations": ["Paypal", "Mercado Pago", "Culqi"]
 }
 ```
