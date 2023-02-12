@@ -11,7 +11,7 @@ Fullstack developer, passionate about new technologies, continuous learning, tea
 
 -   📚 I currently belong to the [ONE](https://www.oracle.com/pe/education/oracle-next-education/) (Oracle Next Education) program as student 📚
 
--   📚 I currently learning about [Golang](https://go.dev/) 📚
+-   📚 I currently learning about [Java](https://www.java.com/) 📚
 
 <hr />
 
