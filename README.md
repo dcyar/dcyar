@@ -1,6 +1,6 @@
 # Hello 😎🤘
 
-Jhon Achata Limachi, 28 years old, Peruvian.
+Jhon Achata Limachi, 29 years old, Peruvian.
 
 Fullstack developer, passionate about new technologies, continuous learning, teamwork is essential as well as effective communication and the application of good practices for the development of scalable software. 😉
 
@@ -8,10 +8,6 @@ Fullstack developer, passionate about new technologies, continuous learning, tea
 <!-- But I can give consultancies to companies or startups 💡 -->
 
 <!-- -   🚀 I can give consultancies to companies or startups 💡 -->
-
--   📚 I currently belong to the [ONE](https://www.oracle.com/pe/education/oracle-next-education/) (Oracle Next Education) program as student 📚
-
--   📚 I currently learning about [Java](https://www.java.com/) 📚
 
 <hr />
 
@@ -33,7 +29,7 @@ Fullstack developer, passionate about new technologies, continuous learning, tea
         "basic": ["Go", "Java"],
         "intermediate": ["NodeJS"],
         "advanced": ["PHP"],
-        "frameworks": ["Laravel", "Wordpress", "Express"]
+        "frameworks": ["Laravel", "Wordpress", "ExpressJS", "AstroJS"]
     },
     "frontend": [
         "HTML5",
@@ -47,7 +43,7 @@ Fullstack developer, passionate about new technologies, continuous learning, tea
         "TailwindCSS"
     ],
     "database": ["MySQL", "MongoDB"],
-    "workflow": ["Git", "Gitflow", "Scrum", "Jira", "Asana"],
+    "workflow": ["Git", "Gitflow", "Scrum", "Jira", "Asana", "ClickUp"],
     "aws": ["S3"],
     "design": ["Figma"],
     "tools": ["Docker", "Laravel Sail"],
@@ -64,6 +60,6 @@ Fullstack developer, passionate about new technologies, continuous learning, tea
 
 or give some ♥ on [instagram](https://instagram.com/dcyar).
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=dcyar/dcyar)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=dcyar/dcyar) -->
 
 <!-- [![Jhon Achata Limachi's GitHub stats](https://github-readme-stats.vercel.app/api?username=dcyar&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/dcyar/github-readme-stats) -->
